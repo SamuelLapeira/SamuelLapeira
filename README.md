@@ -1,4 +1,4 @@
- 🚀 ¡Hola! Samuel Lapeira Pérez 
+# 🚀 ¡Hola! Samuel Lapeira Pérez 
 💻 Soy Ténico Superior en **Desarrollo de aplicaciones Web** y soy de **Málaga**.  
 
 ## 🛠️ Skills and Tools:
