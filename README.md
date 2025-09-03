@@ -39,5 +39,5 @@
 ---
 
 ## 🚀 Proyectos Destacados:
-### 📌 [BeautyBook](https://github.com/juancid08/BeautyBook)  
+### 📌 [BeautyBook](https://github.com/SamuelLapeira/BeautyBook)  
 🛠️ Este proyecto está terminado. BeautyBook es una plataforma para gestionar citas de belleza y estilismo.
