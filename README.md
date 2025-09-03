@@ -30,7 +30,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/samuel-lapeira-pérez-5450672b7" target="_blank">
+  <a href="www.linkedin.com/in/samuel-lapeira-pérez" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
