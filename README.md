@@ -40,4 +40,4 @@
 
 ## 🚀 Proyectos Destacados:
 ### 📌 [BeautyBook](https://github.com/juancid08/BeautyBook)  
-🛠️ Este proyecto está en desarrollo. BeautyBook es una plataforma para gestionar citas de belleza y estilismo.
+🛠️ Este proyecto está terminado. BeautyBook es una plataforma para gestionar citas de belleza y estilismo.
